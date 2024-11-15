@@ -15,7 +15,8 @@ So i calculate this measures with avg and stddev functions.
 
 When i calcualted these results online, i can see that there is no significant difference between variant1 and control.
 
-To calculate total number of gamer on boarding i join game_actions table.
+To calculate total number of gamer on boarding i join game_actions table. Accoring to results i do not accept null hypotesis that means there is a difference between two variables.
 
 ![image](https://github.com/user-attachments/assets/936f0a90-29c8-4f3a-a080-2f19f422bb39)
+
 
