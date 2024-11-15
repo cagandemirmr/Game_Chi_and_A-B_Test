@@ -20,3 +20,7 @@ To calculate total number of gamer on boarding i join game_actions table. Accori
 ![image](https://github.com/user-attachments/assets/936f0a90-29c8-4f3a-a080-2f19f422bb39)
 
 
+But as a succes metric, i define purchase thus i recreated calculation.
+
+![image](https://github.com/user-attachments/assets/7364925b-6b08-4f50-9457-0b68e05cdf5d)
+
