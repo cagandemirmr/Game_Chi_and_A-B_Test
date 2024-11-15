@@ -27,3 +27,17 @@ But as a succes metric, i define purchase thus i recreated calculation.According
 In terms of 7 day interval, There is no difference between them.
 
 ![image](https://github.com/user-attachments/assets/d6d550a9-9c61-4fcb-9d35-e2222e212674)
+
+If i make test on two different period whether there is a significant difference between two periods.
+I can see that there is a significant difference between these results.
+
+![image](https://github.com/user-attachments/assets/4ed2b317-00de-4e97-9f18-7ce25ad4c1f2)
+
+But it can not be reliable because of planned and unexpected events.
+
+If I tried to compare two different countries like Canada and USA.
+I can get this results.
+
+![image](https://github.com/user-attachments/assets/71d84b24-312a-4b6d-8f3b-f4bfdbda2f95)
+
+But it can be tricky because these countries do not have same amount of population, etc.
