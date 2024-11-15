@@ -24,3 +24,6 @@ But as a succes metric, i define purchase thus i recreated calculation.According
 
 ![image](https://github.com/user-attachments/assets/7364925b-6b08-4f50-9457-0b68e05cdf5d)
 
+In terms of 7 day interval, There is no difference between them.
+
+![image](https://github.com/user-attachments/assets/d6d550a9-9c61-4fcb-9d35-e2222e212674)
