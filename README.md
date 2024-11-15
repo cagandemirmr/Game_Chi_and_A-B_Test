@@ -40,4 +40,4 @@ I can get this results.
 
 ![image](https://github.com/user-attachments/assets/71d84b24-312a-4b6d-8f3b-f4bfdbda2f95)
 
-But it can be tricky because these countries do not have same amount of population, etc.
+Whether there is a significant difference  it can be tricky because these countries do not have same amount of population, etc.
