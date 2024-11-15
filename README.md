@@ -1,5 +1,38 @@
 # Game_Analysis
-In this repo, i use hypotetical mobile game company data set is used to make chi square test and A/B testing
+
+## Importing Data 
+
+I create table and import CSV files with indicating path.
+![image](https://github.com/user-attachments/assets/9462f787-fe4d-4c21-a3c1-bae1578719e1)
+
+## About The Data
+
+All datas created artifically on ChatGPT.There are 4  CSV Tables which are exp_analysis,game_actions,game_purchases and game_users.
+
+Iexp_assigments table  has 100.172 Rows and 4 columns which are  exp_name,user_id,exp_date,variant.
+
+exp_name has "Onboarding" variable.
+
+user_id is consist of 100.172 distinct values.
+
+exp_date has 50 distinct values.And  oldest date is "2020-01-01", newest date is "2020-02-19".
+
+variant has 2 variables which are variant1 and control group.
+
+
+Game actions consist of 124.185 Rows and 3 categories which are  user_id,action and action_date.
+
+action column has "onboarding complete" and "email_optin" variables. User_id has 87.124 variables.Also action date has 50 variables and  while oldest date is "2020-01-01", newest date is "2020-02-19"
+
+
+Game_purchases have 12.897 Rows and 3 columns which are user_id,purch_date and amount.
+
+user_id has 9.969 distinct values.
+
+purch_date has 70 values.Oldest date is "2020-01-01" and newest date is "2020-03-11".
+
+Amount has 6 distinct values which are 2.99, 50 ,25, 999, 100, 10.
+
 
 ![image](https://github.com/user-attachments/assets/bfdcbec4-530d-4563-b220-d062bb2e04bd)
 
