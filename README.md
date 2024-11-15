@@ -15,12 +15,12 @@ So i calculate this measures with avg and stddev functions.
 
 When i calcualted these results online, i can see that there is no significant difference between variant1 and control.
 
-To calculate total number of gamer on boarding i join game_actions table. Accoring to results i do not accept null hypotesis that means there is a difference between two variables.
+To calculate total number of gamer on boarding i join game_actions table. Accoring to results i do not accept null hypotesis that means there is a difference between two categories.
 
 ![image](https://github.com/user-attachments/assets/936f0a90-29c8-4f3a-a080-2f19f422bb39)
 
 
-But as a succes metric, i define purchase thus i recreated calculation.
+But as a succes metric, i define purchase thus i recreated calculation.According to test, it shows that there is difference between two categories.
 
 ![image](https://github.com/user-attachments/assets/7364925b-6b08-4f50-9457-0b68e05cdf5d)
 
